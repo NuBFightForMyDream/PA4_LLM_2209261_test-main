@@ -11,7 +11,7 @@
 - The name of this project comes from "Synthesizer" . Meaning for how our program can synthesize raw materials into something special.
 
 ## Contributor
-- 6730084521 Chatrphol Ovanonchai (Main Contributor)
+- 6730084521 Chatrphol Ovanonchai (Main Contributor) [75% Main Structure written by myself , 25% AI-Assisted]
 
 ## Logic/Flow of this program
 
